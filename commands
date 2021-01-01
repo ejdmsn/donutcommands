@@ -1,0 +1,11 @@
+.ping - shows up bot delay in ms
+.chance - chance from 0% to 100% - USER INPUT - ".chance me getting a gf" BOT OUTPUT - "me getting a gf is chance about like 80%"
+.is - random answer https://i.imgur.com/o5jQow1.png - USER INPUT - ".is it possible to be born in space?" BOT OUTPUT - "50/50"
+.meme - send you a random meme
+.uwu - well.. it just owo'd back.. kms
+.menu - shows up box with help and this page
+
+‼ ADMIN ONLY -  .clear - defaultly it just remove 5 lines on chat - use ".clear (number)" to remove more
+‼ ADMIN ONLY -  .kick - kick a user
+‼ ADMIN ONLY -  .ban - bans a user
+‼ ADMIN ONLY -  .unban - unbans a user
